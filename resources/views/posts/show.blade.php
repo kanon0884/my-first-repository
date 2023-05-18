@@ -14,7 +14,7 @@
         <div class="content">
             <div class="content__post">
                 <h2>本文</h2>
-                <p>{{ $post->body }}</p>    
+                <p class='body'>{{ $post->body }}</p>
             </div>
         </div>
         <div class="footer">
